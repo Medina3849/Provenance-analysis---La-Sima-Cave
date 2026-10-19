@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or the associated data, please cite this reference."
+authors:
+  - family-names: "Medina Luque"
+    given-names: "Eusebio Jesús"
+    orcid: "https://orcid.org/0000-0003-4986-7089"
+    affiliation: "University of Córdoba"
+title: "XRF and PCA Analysis of Siliceous Raw Materials (La Sima Cave)"
+version: 1.0.0
+date-released: 2026-10-19
+license: MIT
+repository-code: "https://github.com/[your-username]/[your-repository-name]"
